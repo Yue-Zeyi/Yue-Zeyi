@@ -2,7 +2,7 @@
 - 👀 I’m interested in code and want to be a good programmer.
 - 🌱 I'm learning web front-end development on BiliBili.
 - 💞️ Motto:Don't give up your dream for little applause.
-- 📫 Email:yuezyei@88.com
+- 📫 Email:Yuezyei@88.com
 
 <!---
 Yue-Zeyi/Yue-Zeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
